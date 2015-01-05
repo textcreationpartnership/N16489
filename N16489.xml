@@ -117,14 +117,14 @@
          <text xml:lang="eng">
             <front>
                <div type="frontispiece">
-                  <pb facs="tcp:021187_0000_0FB26EE4F9D74040"/>
-                  <pb facs="tcp:021187_0001_0FB26EE7405386D0"/>
+                  <pb facs="unknown:021187_0000_0FB26EE4F9D74040"/>
+                  <pb facs="unknown:021187_0001_0FB26EE7405386D0"/>
                   <p>
                      <figure/>
                   </p>
                </div>
                <div type="title_page">
-                  <pb facs="tcp:021187_0002_0FB26EE95AE00CF8"/>
+                  <pb facs="unknown:021187_0002_0FB26EE95AE00CF8"/>
                   <p>THE ADVENTURES OF A PINCUSHION.</p>
                   <p>DESIGNED CHIEFLY FOR THE USE OF YOUNG LADIES.</p>
                   <lg>
@@ -139,21 +139,21 @@
                   <p>PRINTED at WORCESTER, <hi>Maſſachuſetts,</hi> By ISAIAH THOMAS, And SOLD, Wholeſale and Retail, at his Bookſtore. MDCCLXXXVIII.</p>
                </div>
                <div type="preface">
-                  <pb n="v" facs="tcp:021187_0003_0FB26EECA6771B60"/>
+                  <pb n="v" facs="unknown:021187_0003_0FB26EECA6771B60"/>
                   <head>PREFACE.</head>
                   <p>THE Author of the following ſheets is well aware of the objections which may be made to the performance; but is in hopes the candour of the publick will ex<g ref="char:EOLhyphen"/>cuſe thoſe defects, which the na<g ref="char:EOLhyphen"/>ture of the undertaking rendered it almoſt impoſſible to avoid. The pointed ſatire of ridicule, which would perhaps have given a zeſt to thoſe ſcenes in which the ſub<g ref="char:EOLhyphen"/>ject of theſe pages was engaged, was not, in the opinion of the writer, at all proper for thoſe readers for whom it was ſolely de<g ref="char:EOLhyphen"/>ſigned. To exhibit their ſuperiours
-<pb n="vi" facs="tcp:021187_0004_0FB26EEE90FA1D78"/>
+<pb n="vi" facs="unknown:021187_0004_0FB26EEE90FA1D78"/>
 in a ridiculous view, is not the proper method to engage the youthful mind to reſpect. To re<g ref="char:EOLhyphen"/>preſent their equals as the objects of contemptuous mirth, is by no means favourable to the intereſt of good nature. And to treat the characters of their inferiours with levity, the Author thought was in<g ref="char:EOLhyphen"/>conſiſtent with the ſacred rights of humanity. Circumſcribed therefore to the narrow bounda<g ref="char:EOLhyphen"/>ries of ſimple narrative, it has been the deſign of the following pages, carefully to avoid exciting any wrong impreſſion, and, by ſometimes blending <hi>inſtruction</hi> with <hi>amuſement,</hi> to make it the more eaſily retained.</p>
                   <p>
-                     <pb n="vii" facs="tcp:021187_0005_0FB26EF14343B950"/>To multiply incidents in theſe circumſtances, was a very difficult taſk, eſpecially, as it was wiſhed to make them ariſe naturally from the ſubject; and not obtrude un<g ref="char:EOLhyphen"/>neceſſarily without any ſeeming cauſe to produce them. The avidity with which children pe<g ref="char:EOLhyphen"/>ruſe books of entertainment, is a proof how much publications pro<g ref="char:EOLhyphen"/>per for their attention are requir<g ref="char:EOLhyphen"/>ed. Though the ſentiments ſhould be ſuited to their ſimplic<g ref="char:EOLhyphen"/>ity, they ought to be expreſſed with propriety; ſince a taſte for elegance may be inſenſibly ac<g ref="char:EOLhyphen"/>quired; and we ſhould always <hi>endeavour</hi> to preſent them with proper models of imitation. Con<g ref="char:EOLhyphen"/>ſcious of the difficulty of the un<g ref="char:EOLhyphen"/>dertaking,
-<pb n="viii" facs="tcp:021187_0006_0FB26EF7C0F77F60"/>
+                     <pb n="vii" facs="unknown:021187_0005_0FB26EF14343B950"/>To multiply incidents in theſe circumſtances, was a very difficult taſk, eſpecially, as it was wiſhed to make them ariſe naturally from the ſubject; and not obtrude un<g ref="char:EOLhyphen"/>neceſſarily without any ſeeming cauſe to produce them. The avidity with which children pe<g ref="char:EOLhyphen"/>ruſe books of entertainment, is a proof how much publications pro<g ref="char:EOLhyphen"/>per for their attention are requir<g ref="char:EOLhyphen"/>ed. Though the ſentiments ſhould be ſuited to their ſimplic<g ref="char:EOLhyphen"/>ity, they ought to be expreſſed with propriety; ſince a taſte for elegance may be inſenſibly ac<g ref="char:EOLhyphen"/>quired; and we ſhould always <hi>endeavour</hi> to preſent them with proper models of imitation. Con<g ref="char:EOLhyphen"/>ſcious of the difficulty of the un<g ref="char:EOLhyphen"/>dertaking,
+<pb n="viii" facs="unknown:021187_0006_0FB26EF7C0F77F60"/>
 the Author of theſe adventures would gladly have de<g ref="char:EOLhyphen"/>clined the taſk, in the expectation of ſuch a work's engaging the attention of thoſe, who have genius equal to its accompliſh<g ref="char:EOLhyphen"/>ment. With the hope, therefore, of inſpiring others to excel the example, it is now ſubmitted to the world "with all its imper<g ref="char:EOLhyphen"/>fections on its head," truſting for a candid reception to the motive which firſt ſuggeſted the idea: <hi>That of preſenting the juvenile reader with a few pages which ſhould be in<g ref="char:EOLhyphen"/>nocent of corrupting, if they did not amuſe.</hi>
                   </p>
                </div>
             </front>
             <body>
                <div type="text">
-                  <pb n="9" facs="tcp:021187_0007_0FB26EF91076A920"/>
+                  <pb n="9" facs="unknown:021187_0007_0FB26EF91076A920"/>
                   <head>ADVENTURES OF A PINCUSHION.</head>
                   <div n="1" type="part">
                      <figure/>
@@ -170,7 +170,7 @@ the Author of theſe adventures would gladly have de<g ref="char:EOLhyphen"/>cli
                         <l>And the hope of enjoyment is vain.</l>
                      </lg>
                      <lg>
-                        <pb n="26" facs="tcp:021187_0024_0FB26B0B640C0AE8"/>
+                        <pb n="26" facs="unknown:021187_0024_0FB26B0B640C0AE8"/>
                         <l>If to errour betray'd, then delay not to own</l>
                         <l>The crime which has rob'd you of peace;</l>
                         <l>As penitence only can waſh out the ſtain,</l>
@@ -203,7 +203,7 @@ the Author of theſe adventures would gladly have de<g ref="char:EOLhyphen"/>cli
                         </l>
                      </lg>
                      <lg>
-                        <pb n="28" facs="tcp:021187_0026_0FB26B12DD8C5C90"/>
+                        <pb n="28" facs="unknown:021187_0026_0FB26B12DD8C5C90"/>
                         <l>I mention'd the fault that in future your care,</l>
                         <l>Might ſecure from unguarded ſurprize;</l>
                         <l>I thought you had ſenſe to rely on my love;</l>
@@ -235,9 +235,9 @@ the Author of theſe adventures would gladly have de<g ref="char:EOLhyphen"/>cli
                      </lg>
                      <figure/>
                      <p>In the reign of <hi>Edward</hi> the confeſſor, in the year 1042, Earl <hi>Goodwin,</hi> who had been acceſ<g ref="char:EOLhyphen"/>ſary to the murder of Prince <hi>Alfred,</hi> was at dinner with the King at <hi>Windſor</hi>; and taking a piece of bread, called God to witneſs his in<g ref="char:EOLhyphen"/>nocence, and wiſhed if he uttered any thing but the truth, that the next mouthful he eat might choke him. Which accordingly happened, and the bread ſtuck in his throat and he died immediately at the table. Don't you think, my dear, added Mrs. <hi>Airy,</hi> it was a juſt puniſh<g ref="char:EOLhyphen"/>ment for his untruth; and an awful judgment for calling God to witneſs to a falſehood? In<g ref="char:EOLhyphen"/>deed, Ma'am, I think it was quite dreadful; but are you ſure that this account is true? for though it is certainly very wicked to tell a lye on any occaſion, yet, as ſometimes many peo<g ref="char:EOLhyphen"/>ple are thus guilty, I wonder that ſuch events do not more frequently happen! You know that Miſs <hi>Ryeby</hi> ſaid ſhe had not been writing laſt week, although you ſaw that her fingers were inked; and <hi>Charlotte</hi> had ſeen her doing it; why then, did not the ſame accident hap<g ref="char:EOLhyphen"/>pen
-<pb n="31" facs="tcp:021187_0029_0FB26B240B3EC0F0"/>
+<pb n="31" facs="unknown:021187_0029_0FB26B240B3EC0F0"/>
 to her? "Becauſe, my love, the puniſh<g ref="char:EOLhyphen"/>ment of ſuch crimes do not always immediately follow the commiſſion of them; but you may be ſure that the remorſe of conſcience, and the ſecret uneaſineſs of mind which the guilty ſuf<g ref="char:EOLhyphen"/>fer, is a very great unhappineſs, and the ap<g ref="char:EOLhyphen"/>prehenſion and the fear of a future account after death, beſides the idea of preſent detec<g ref="char:EOLhyphen"/>tion, is ſuch a degree of miſery as no other puniſhment can equal. As to your queſtion, whether I believe this account to be true? I certainly do! It was an extraordinary event which was recorded at the time it happened, and which every hiſtorian has mentioned ſince, and faithfully tranſmitted to us. This is the beſt authority we can have for any fact which happened before our own time, and therefore entitled to our belief. But why ſuch exam<g ref="char:EOLhyphen"/>ples are ſo rare, is not to be wondered at; be<g ref="char:EOLhyphen"/>cauſe you know that wicked people will be puniſhed hereafter; and though ſuch inſtances ſometimes happen to teach others to be good, and to make them afraid of doing what will make them liable to ſuch terrible vengeance, yet, in general, a crime of this kind does not meet with immediate chaſtiſement; becauſe, after death, as I have before told you, thoſe who have been wicked, will ſuffer ſuch miſery as their ſins deſerved. Beſides which, the liar
-<pb n="32" facs="tcp:021187_0030_0FB26B256A1E1EA8"/>
+<pb n="32" facs="unknown:021187_0030_0FB26B256A1E1EA8"/>
 is at preſent deteſted by every one, and loſes all the advantage of confidence, and the plea<g ref="char:EOLhyphen"/>ſure of being believed: Even when he does ſpeak truth, he is liable to be ſuſpected, and his word is doubted on all occaſions." The converſation was here interrupted by the arri<g ref="char:EOLhyphen"/>val of two young ladies with their Mamma, who came to pay a morning viſit to Mrs. <hi>Airy</hi>; but as they did not ſay any thing worth the attention of my readers, I ſhall not trouble myſelf to repeat more of what paſſed than may be imagined, from the comments of my miſtreſs and her ſiſter, with which I ſhall preſent them.</p>
                      <figure/>
                      <figure/>
@@ -248,7 +248,7 @@ is at preſent deteſted by every one, and loſes all the advantage of confidenc
                         <l>As ſilence much folly may hide.</l>
                      </lg>
                      <lg>
-                        <pb n="37" facs="tcp:021187_0035_0FB26B3A9E204F90"/>
+                        <pb n="37" facs="unknown:021187_0035_0FB26B3A9E204F90"/>
                         <l>Moſt uſeful I think, you this maxim will find,</l>
                         <l>And never its precept neglect;</l>
                         <l>That who giddy and thoughtleſs will chatter away,</l>
@@ -274,14 +274,14 @@ is at preſent deteſted by every one, and loſes all the advantage of confidenc
                      </lg>
                      <figure/>
                      <p>Mrs. <hi>Stanley,</hi> to whom the houſe belonged, was the widow of a clergyman, who had at his death left her in rather indigent circum<g ref="char:EOLhyphen"/>ſtances; and ſhe had been adviſed (to ſupport herſelf and two younger ſiſters who lived with her) to take a ſmall number of young ladies to board. Her number was confined to ſix; of whom two were thoſe I have above men<g ref="char:EOLhyphen"/>tioned. The others were three ſiſters, whoſe
-<pb n="40" facs="tcp:021187_0038_0FB26B4DAB274590"/>
+<pb n="40" facs="unknown:021187_0038_0FB26B4DAB274590"/>
 names were <hi>Saxby,</hi> and a Miſs <hi>Una</hi>; who, for her ſweetneſs of temper, and excellence in every accompliſhment, was eſteemed ſuperiour to all the reſt of her companions. <hi>Harriet Una,</hi> was couſin to Miſs <hi>Meekly,</hi> and they uſually ſlept together. She was juſt turned of thirteen, was tall and large; had light brown hair, blue eyes, and a fine complexion: But her good-nature, and willingneſs to oblige every one, made her the general favourite, and recom<g ref="char:EOLhyphen"/>mended her to univerſal eſteem.</p>
                      <figure/>
                      <p>
                         <hi>Eliza</hi> was convinced of the propriety and juſtice of her friend's advice, and promiſed to comply with it the next morning. But her ex<g ref="char:EOLhyphen"/>ceſſive timidity prevented her making uſe of ſeveral opportunities which preſented, though the ſubject occupied all her attention, and ſhe could ſcarce think of any thing elſe. She again applied therefore to <hi>Harriet,</hi> and told her it was impoſſible for her to ſummon up courage to do as ſhe had deſired; and begged ſhe would, from her, acquaint Mrs. <hi>Stanley</hi> with what had happened. Miſs <hi>Una,</hi> in the mildeſt terms, complied with her requeſt; and at the ſame time very generouſly commending her honour on every occaſion, and urging her preſent un<g ref="char:EOLhyphen"/>eaſineſs to engage Mrs. <hi>Stanley's</hi> compaſſion. Miſs <hi>Meekly,</hi> when ſhe was acquainted with her couſin's having revealed this ſecret, which had oppreſſed her mind, was very unwilling to attend her to the lady abovementioned. But ſhe received her with the greateſt affection and tenderneſs; and after expreſſing, in the warmeſt terms, her approbation of ſuch a ge<g ref="char:EOLhyphen"/>nerous confeſſion, added "You need never my dear girl, be afraid either of anger, or puniſhment, when with ſuch a degree of frank<g ref="char:EOLhyphen"/>neſs,
-<pb n="44" facs="tcp:021187_0042_0FB26B55A1FDEF50"/>
+<pb n="44" facs="unknown:021187_0042_0FB26B55A1FDEF50"/>
 you acknowledge any fault you have committed. Be aſſured, your friends will be always willing to pardon thoſe errours which you promiſe to amend; but let the preſent in<g ref="char:EOLhyphen"/>ſtance warn you, my <hi>Eliza,</hi> never to be led in<g ref="char:EOLhyphen"/>to actions which you know are improper, be<g ref="char:EOLhyphen"/>cauſe the company you are with may ridi<g ref="char:EOLhyphen"/>cule your refuſal. Miſs <hi>Charlotte Airy,</hi> is, in my opinion, a very naughty girl, to endeavour to perſuade you to do any thing which you have been forbidden. And I hope from the re<g ref="char:EOLhyphen"/>morſe you have ſuffered, you will reflect on the folly of complying with any propoſals, which your conſcience ſuggeſts to you is wrong. Do not be afraid of being laughed at for being good. Every perſon of real ſenſe will eſteem you for your reſolution: and becauſe a ſilly girl may <hi>ſneer</hi> at your apprehenſion of puniſh<g ref="char:EOLhyphen"/>ment, it will be much more ridiculous, and wicked at the ſame time, to be guilty of what you are conſcious is a crime, for which you will <hi>deſerve,</hi> and perhaps <hi>receive</hi> correction. Beſides, <hi>one</hi> bad action, is but too often the cauſe of the commiſſion of others; and when once we have deviated from what is right in a ſmall inſtance, it is frequently the occaſion of accumulated guilt. I will tell you an inſtance of this kind that may illuſtrate my meaning, and which, as I was acquainted with the perſon
-<pb n="45" facs="tcp:021187_0043_0FB26B5CB2FF5410"/>
+<pb n="45" facs="unknown:021187_0043_0FB26B5CB2FF5410"/>
 who is the ſubject of it, will perhaps make a deeper impreſſion on your mind.</p>
                      <figure/>
                      <figure/>
@@ -289,14 +289,14 @@ who is the ſubject of it, will perhaps make a deeper impreſſion on your mind.
                      <figure/>
                      <p>Long have I remained in this dull ſtate of obſcurity and confinement, unable to make known my diſtreſs, as I want the power of ar<g ref="char:EOLhyphen"/>ticulation: at leaſt my language can be only underſtood to things inanimate as myſelf. A pen, however, which fell down near me, en<g ref="char:EOLhyphen"/>gaged to preſent theſe memoirs to the world, if ever it ſhould be employed by the hand of kindneſs, to reſcue my name from oblivion. Should the eye of youth read this account with any pleaſure, it is hoped the candour of gene<g ref="char:EOLhyphen"/>roſity will overlook its imperfections; and ſhould fate, in ſome fortunate moment of futu<g ref="char:EOLhyphen"/>rity, again reſtore me to the poſſeſſion of Miſs <hi>Meekly,</hi> or any of her companions, my grati<g ref="char:EOLhyphen"/>tude will engage me to thank the publick for its indulgence, and to continue the account of my adventures.</p>
                      <p>
-                        <pb n="55" facs="tcp:021187_0053_0FB26B77748B2818"/>If I am not ſo happy as to meet with appro<g ref="char:EOLhyphen"/>bation, I ſhall at leaſt have the conſolation to reflect, that theſe pages have ſuggeſted no wrong ideas to the youthful mind, have given no encouragement to vanity, nor exhibited any improper example with commendation; which is what better Authors, and works of higher genius cannot always be happy enough to boaſt. Such as it is, I ſubmit this account of myſelf to the world, and only deſire them to remmember, in the words of the admired <hi>Gay,</hi> That</p>
+                        <pb n="55" facs="unknown:021187_0053_0FB26B77748B2818"/>If I am not ſo happy as to meet with appro<g ref="char:EOLhyphen"/>bation, I ſhall at leaſt have the conſolation to reflect, that theſe pages have ſuggeſted no wrong ideas to the youthful mind, have given no encouragement to vanity, nor exhibited any improper example with commendation; which is what better Authors, and works of higher genius cannot always be happy enough to boaſt. Such as it is, I ſubmit this account of myſelf to the world, and only deſire them to remmember, in the words of the admired <hi>Gay,</hi> That</p>
                      <q>
                         <l>From objects moſt minute and mean,</l>
                         <l>A virtuous mind may morals glean.</l>
                      </q>
                   </div>
                   <div n="2" type="part">
-                     <pb n="56" facs="tcp:021187_0054_0FB26B79BAE5B688"/>
+                     <pb n="56" facs="unknown:021187_0054_0FB26B79BAE5B688"/>
                      <head>THE ADVENTURES OF A PINCUSHION.</head>
                      <head type="sub">PART II.</head>
                      <figure/>
@@ -313,7 +313,7 @@ who is the ſubject of it, will perhaps make a deeper impreſſion on your mind.
                         <l>I have ſeen her, my friend, when no art could aſſuage,</l>
                         <l>Her anger, vexation, and petulant rage;</l>
                         <l>
-                           <pb n="63" facs="tcp:021187_0061_0FB26B8D22D9C0C0"/>
+                           <pb n="63" facs="unknown:021187_0061_0FB26B8D22D9C0C0"/>
 Becauſe an inferiour hath treated with ſcorn,</l>
                         <l>Thoſe trinkets and gauze which her perſon adorn.</l>
                      </lg>
@@ -344,7 +344,7 @@ Becauſe an inferiour hath treated with ſcorn,</l>
                      <figure/>
                      <figure/>
                      <figure/>
-                     <pb n="69" facs="tcp:021187_0067_0FB26BA7652206F8"/>
+                     <pb n="69" facs="unknown:021187_0067_0FB26BA7652206F8"/>
                      <lg>
                         <head>DICK TO HIS SISTER.</head>
                         <lg>
@@ -372,7 +372,7 @@ Becauſe an inferiour hath treated with ſcorn,</l>
                            <l>Ah! who would her place to her <hi>Richard</hi> e'er ſupply.</l>
                         </lg>
                         <lg>
-                           <pb n="70" facs="tcp:021187_0068_0FB26BAAF889FBD8"/>
+                           <pb n="70" facs="unknown:021187_0068_0FB26BAAF889FBD8"/>
                            <l>Then, my ſiſter, cheer thine heart, and do not look ſo ſad;</l>
                            <l>If we can but live together, matters will not be ſo bad.</l>
                            <l>Now the blackberries are ripe, and I'll gather ſome for thee;</l>
@@ -393,7 +393,7 @@ Becauſe an inferiour hath treated with ſcorn,</l>
                         </lg>
                      </lg>
                      <p>Perhaps it may be thought an uncommon ef<g ref="char:EOLhyphen"/>fort for little <hi>Dick</hi> to turn poet at ſo early an age, and with ſo few advantages from
-<pb n="71" facs="tcp:021187_0069_0FB26BB1A5896BB8"/>
+<pb n="71" facs="unknown:021187_0069_0FB26BB1A5896BB8"/>
 education. But there is no anſwering for the powers of natural genius, and many a one may regard an attempt as <hi>impoſſible,</hi> merely becauſe they are too indolent to exert their faculties. <hi>Richard</hi> had been taught to read and write at the charity ſchool of the pariſh where he lived; and as no application had been wanting on his part, the progreſs he made did equal credit to his own abilities, and the attention of his maſ<g ref="char:EOLhyphen"/>ter, with whom his merit had made him a great favourite.</p>
                      <p>
                         <hi>Jenny</hi> was likewiſe put to a ſmall ſchool at a little diſtance, by the benevolence of the vic<g ref="char:EOLhyphen"/>ar's wife, (with whom ſuch inſtances were very frequent) and by her aſſiduity recommended herſelf to her miſtreſs, who would often pro<g ref="char:EOLhyphen"/>poſe her example as a pattern to the reſt of her ſcholars.</p>
@@ -411,7 +411,7 @@ education. But there is no anſwering for the powers of natural genius, and many
                      <figure/>
                      <figure/>
                      <p>
-                        <pb n="104" facs="tcp:021187_0102_0FB26C189F96BF08"/>The cataſtrophe which has thus reduced me, was entirely unexpected; and ſhould teach them that no ſeeming ſecurity can guard from thoſe accidents, which may in a moment reduce the proſpect of affluence to a ſtate of poverty and diſtreſs; and therefore it is a mark of <hi>folly,</hi> as well as <hi>meanneſs,</hi> to be proud of thoſe diſtinctions, which are at all times pre<g ref="char:EOLhyphen"/>carious in enjoyment, and uncertain in poſ<g ref="char:EOLhyphen"/>ſeſſion.</p>
+                        <pb n="104" facs="unknown:021187_0102_0FB26C189F96BF08"/>The cataſtrophe which has thus reduced me, was entirely unexpected; and ſhould teach them that no ſeeming ſecurity can guard from thoſe accidents, which may in a moment reduce the proſpect of affluence to a ſtate of poverty and diſtreſs; and therefore it is a mark of <hi>folly,</hi> as well as <hi>meanneſs,</hi> to be proud of thoſe diſtinctions, which are at all times pre<g ref="char:EOLhyphen"/>carious in enjoyment, and uncertain in poſ<g ref="char:EOLhyphen"/>ſeſſion.</p>
                   </div>
                   <trailer>THE END.</trailer>
                </div>
